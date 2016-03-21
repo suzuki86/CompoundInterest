@@ -1,5 +1,7 @@
 <?php
 
+namespace CompoundInterest;
+
 class CompoundInterest {
   public static function calculate($currentPrincipal, $years, $interestRate, $annualAddition) {
     $result = $currentPrincipal;
