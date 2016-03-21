@@ -8,7 +8,7 @@ Utility class for calculating compound interst written in PHP.
 
 ### Namespace
 
-Use `CompoundInterst\CompoundInterst` namespace.
+Use `CompoundInterest\CompoundInterest` namespace.
 
 ```
 use CompoundInterst\CompoundInterst;
