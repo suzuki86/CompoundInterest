@@ -6,6 +6,6 @@ class CompoundInterest {
     for ($x = 1; $x <= $years; $x++) {
       $result = $result * (1 + $interestRate) + $annualAddition;
     }
-    return floor($result);
+    return (int)floor($result);
   }
 }
