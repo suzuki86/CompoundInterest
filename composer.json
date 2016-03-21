@@ -1,0 +1,7 @@
+{
+  "name": "suzuki86/CompoundInterest",
+  "description": "A Utility class for calculating compound interest written in PHP.",
+  "autoload": {
+    "psr-4": {"CompoundInterest\\": "src/"}
+  }
+}
