@@ -2,6 +2,8 @@
 
 Utility class for calculating compound interst written in PHP.
 
+[![Build Status](https://travis-ci.org/suzuki86/CompoundInterest.svg?branch=master)](https://travis-ci.org/suzuki86/CompoundInterest)
+
 ## Usage
 
 ### Namespace
