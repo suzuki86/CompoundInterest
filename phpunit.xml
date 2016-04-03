@@ -2,7 +2,7 @@
 
 <phpunit colors="true">
   <testsuites>
-    <testsuite name="CompoundInterst Test Suite">
+    <testsuite name="CompoundInterest Test Suite">
       <directory>tests/</directory>
     </testsuite>
   </testsuites>
